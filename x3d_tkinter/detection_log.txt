@@ -1,0 +1,357 @@
+Non Violence detected with 10.21% confidence.
+Non Violence detected with 47.75% confidence.
+Non Violence detected with 46.67% confidence.
+Non Violence detected with 46.15% confidence.
+Non Violence detected with 40.99% confidence.
+Non Violence detected with 44.59% confidence.
+Non Violence detected with 43.46% confidence.
+Non Violence detected with 41.58% confidence.
+Non Violence detected with 40.44% confidence.
+Non Violence detected with 42.03% confidence.
+Non Violence detected with 38.85% confidence.
+Non Violence detected with 41.90% confidence.
+Non Violence detected with 39.35% confidence.
+Non Violence detected with 37.92% confidence.
+Non Violence detected with 32.28% confidence.
+Non Violence detected with 36.23% confidence.
+Non Violence detected with 32.98% confidence.
+Non Violence detected with 36.66% confidence.
+Non Violence detected with 37.52% confidence.
+Non Violence detected with 37.88% confidence.
+Non Violence detected with 34.78% confidence.
+Non Violence detected with 35.46% confidence.
+Non Violence detected with 39.53% confidence.
+Non Violence detected with 41.34% confidence.
+Non Violence detected with 39.93% confidence.
+Non Violence detected with 43.51% confidence.
+Non Violence detected with 40.04% confidence.
+Non Violence detected with 42.52% confidence.
+Non Violence detected with 41.23% confidence.
+Non Violence detected with 41.38% confidence.
+Non Violence detected with 44.41% confidence.
+Non Violence detected with 44.92% confidence.
+Non Violence detected with 41.26% confidence.
+Non Violence detected with 44.91% confidence.
+Non Violence detected with 42.47% confidence.
+Non Violence detected with 39.01% confidence.
+Non Violence detected with 38.25% confidence.
+Non Violence detected with 34.17% confidence.
+Non Violence detected with 38.52% confidence.
+Non Violence detected with 34.18% confidence.
+Non Violence detected with 34.31% confidence.
+Non Violence detected with 31.57% confidence.
+Non Violence detected with 33.70% confidence.
+Non Violence detected with 33.23% confidence.
+Non Violence detected with 35.33% confidence.
+Non Violence detected with 34.01% confidence.
+Non Violence detected with 36.40% confidence.
+Non Violence detected with 31.91% confidence.
+Non Violence detected with 38.00% confidence.
+Non Violence detected with 31.67% confidence.
+Non Violence detected with 39.86% confidence.
+Non Violence detected with 38.93% confidence.
+Non Violence detected with 41.36% confidence.
+Non Violence detected with 38.11% confidence.
+Non Violence detected with 37.52% confidence.
+Non Violence detected with 37.25% confidence.
+Non Violence detected with 37.46% confidence.
+Non Violence detected with 32.07% confidence.
+Non Violence detected with 33.27% confidence.
+Non Violence detected with 31.93% confidence.
+Non Violence detected with 25.91% confidence.
+Non Violence detected with 24.24% confidence.
+Non Violence detected with 26.44% confidence.
+Non Violence detected with 22.45% confidence.
+Non Violence detected with 22.69% confidence.
+Non Violence detected with 22.46% confidence.
+Non Violence detected with 22.62% confidence.
+Non Violence detected with 20.17% confidence.
+Non Violence detected with 19.49% confidence.
+Non Violence detected with 19.58% confidence.
+Non Violence detected with 19.77% confidence.
+Non Violence detected with 18.34% confidence.
+Non Violence detected with 18.57% confidence.
+Non Violence detected with 20.40% confidence.
+Non Violence detected with 20.12% confidence.
+Non Violence detected with 21.23% confidence.
+Non Violence detected with 21.72% confidence.
+Non Violence detected with 19.88% confidence.
+Non Violence detected with 22.01% confidence.
+Non Violence detected with 25.03% confidence.
+Non Violence detected with 25.37% confidence.
+Non Violence detected with 26.95% confidence.
+Non Violence detected with 26.53% confidence.
+Non Violence detected with 28.31% confidence.
+Non Violence detected with 27.67% confidence.
+Non Violence detected with 25.58% confidence.
+Non Violence detected with 27.89% confidence.
+Non Violence detected with 24.90% confidence.
+Non Violence detected with 25.65% confidence.
+Non Violence detected with 22.96% confidence.
+Non Violence detected with 23.93% confidence.
+Non Violence detected with 21.47% confidence.
+Non Violence detected with 20.99% confidence.
+Non Violence detected with 23.16% confidence.
+Non Violence detected with 24.59% confidence.
+Non Violence detected with 24.16% confidence.
+Non Violence detected with 21.81% confidence.
+Non Violence detected with 20.94% confidence.
+Non Violence detected with 21.42% confidence.
+Non Violence detected with 20.56% confidence.
+Non Violence detected with 23.24% confidence.
+Non Violence detected with 23.27% confidence.
+Non Violence detected with 25.54% confidence.
+Non Violence detected with 20.29% confidence.
+Non Violence detected with 23.40% confidence.
+Non Violence detected with 24.16% confidence.
+Non Violence detected with 23.46% confidence.
+Non Violence detected with 27.81% confidence.
+Non Violence detected with 29.10% confidence.
+Non Violence detected with 30.34% confidence.
+Non Violence detected with 29.36% confidence.
+Non Violence detected with 27.80% confidence.
+Non Violence detected with 31.05% confidence.
+Non Violence detected with 29.25% confidence.
+Non Violence detected with 25.45% confidence.
+Non Violence detected with 28.22% confidence.
+Non Violence detected with 25.70% confidence.
+Non Violence detected with 23.97% confidence.
+Non Violence detected with 36.25% confidence.
+Non Violence detected with 28.65% confidence.
+Non Violence detected with 24.15% confidence.
+Non Violence detected with 14.44% confidence.
+Non Violence detected with 21.91% confidence.
+Non Violence detected with 27.52% confidence.
+Non Violence detected with 20.76% confidence.
+Non Violence detected with 24.30% confidence.
+Non Violence detected with 22.46% confidence.
+Non Violence detected with 25.74% confidence.
+Non Violence detected with 22.47% confidence.
+Non Violence detected with 20.79% confidence.
+Non Violence detected with 17.22% confidence.
+Non Violence detected with 19.60% confidence.
+Non Violence detected with 22.39% confidence.
+Non Violence detected with 19.75% confidence.
+Non Violence detected with 26.26% confidence.
+Non Violence detected with 29.96% confidence.
+Non Violence detected with 45.53% confidence.
+Non Violence detected with 42.46% confidence.
+Non Violence detected with 37.36% confidence.
+Non Violence detected with 35.78% confidence.
+Non Violence detected with 19.81% confidence.
+Non Violence detected with 18.44% confidence.
+Non Violence detected with 18.50% confidence.
+Non Violence detected with 22.14% confidence.
+Non Violence detected with 44.08% confidence.
+Non Violence detected with 38.04% confidence.
+Violence detected with 52.17% confidence.
+Violence detected with 52.62% confidence.
+Violence detected with 55.50% confidence.
+Violence detected with 51.10% confidence.
+Non Violence detected with 47.54% confidence.
+Non Violence detected with 43.33% confidence.
+Non Violence detected with 34.25% confidence.
+Non Violence detected with 30.23% confidence.
+Non Violence detected with 33.55% confidence.
+Violence detected with 53.51% confidence.
+Violence detected with 51.62% confidence.
+Violence detected with 56.46% confidence.
+Violence detected with 54.75% confidence.
+Violence detected with 57.69% confidence.
+Violence detected with 50.05% confidence.
+Non Violence detected with 46.45% confidence.
+Violence detected with 51.95% confidence.
+Non Violence detected with 49.22% confidence.
+Violence detected with 55.60% confidence.
+Violence detected with 57.01% confidence.
+Violence detected with 51.80% confidence.
+Violence detected with 50.47% confidence.
+Violence detected with 50.38% confidence.
+Non Violence detected with 47.91% confidence.
+Non Violence detected with 48.11% confidence.
+Non Violence detected with 48.47% confidence.
+Non Violence detected with 48.53% confidence.
+Non Violence detected with 48.59% confidence.
+Non Violence detected with 47.42% confidence.
+Non Violence detected with 42.68% confidence.
+Non Violence detected with 43.81% confidence.
+Non Violence detected with 43.21% confidence.
+Non Violence detected with 41.15% confidence.
+Non Violence detected with 37.84% confidence.
+Non Violence detected with 36.34% confidence.
+Non Violence detected with 39.28% confidence.
+Non Violence detected with 38.58% confidence.
+Non Violence detected with 38.14% confidence.
+Non Violence detected with 38.34% confidence.
+Non Violence detected with 36.56% confidence.
+Non Violence detected with 35.78% confidence.
+Non Violence detected with 37.13% confidence.
+Non Violence detected with 33.91% confidence.
+Non Violence detected with 36.04% confidence.
+Non Violence detected with 34.10% confidence.
+Non Violence detected with 38.44% confidence.
+Non Violence detected with 35.47% confidence.
+Non Violence detected with 35.22% confidence.
+Non Violence detected with 37.30% confidence.
+Non Violence detected with 32.85% confidence.
+Non Violence detected with 34.43% confidence.
+Non Violence detected with 33.22% confidence.
+Non Violence detected with 32.05% confidence.
+Non Violence detected with 37.19% confidence.
+Non Violence detected with 36.05% confidence.
+Non Violence detected with 40.43% confidence.
+Non Violence detected with 38.33% confidence.
+Non Violence detected with 43.78% confidence.
+Non Violence detected with 41.81% confidence.
+Non Violence detected with 37.18% confidence.
+Non Violence detected with 35.97% confidence.
+Non Violence detected with 36.89% confidence.
+Non Violence detected with 36.24% confidence.
+Non Violence detected with 37.51% confidence.
+Non Violence detected with 38.15% confidence.
+Non Violence detected with 37.72% confidence.
+Non Violence detected with 39.38% confidence.
+Non Violence detected with 36.32% confidence.
+Non Violence detected with 36.30% confidence.
+Non Violence detected with 37.71% confidence.
+Non Violence detected with 40.07% confidence.
+Non Violence detected with 36.18% confidence.
+Non Violence detected with 44.80% confidence.
+Non Violence detected with 43.32% confidence.
+Non Violence detected with 49.54% confidence.
+Non Violence detected with 48.74% confidence.
+Violence detected with 55.17% confidence.
+Violence detected with 69.60% confidence.
+Violence detected with 56.96% confidence.
+Violence detected with 75.90% confidence.
+Violence detected with 89.75% confidence.
+Violence detected with 87.77% confidence.
+Violence detected with 89.43% confidence.
+Violence detected with 89.03% confidence.
+Violence detected with 89.23% confidence.
+Violence detected with 83.70% confidence.
+Violence detected with 84.37% confidence.
+Violence detected with 90.39% confidence.
+Violence detected with 91.96% confidence.
+Violence detected with 94.12% confidence.
+Violence detected with 93.05% confidence.
+Violence detected with 88.60% confidence.
+Violence detected with 88.72% confidence.
+Violence detected with 75.35% confidence.
+Violence detected with 66.40% confidence.
+Violence detected with 75.58% confidence.
+Violence detected with 69.12% confidence.
+Violence detected with 70.05% confidence.
+Violence detected with 70.60% confidence.
+Violence detected with 73.82% confidence.
+Violence detected with 73.19% confidence.
+Violence detected with 72.83% confidence.
+Violence detected with 75.43% confidence.
+Violence detected with 75.03% confidence.
+Violence detected with 76.17% confidence.
+Violence detected with 74.10% confidence.
+Violence detected with 76.40% confidence.
+Violence detected with 75.47% confidence.
+Violence detected with 74.15% confidence.
+Violence detected with 75.86% confidence.
+Violence detected with 74.02% confidence.
+Violence detected with 71.59% confidence.
+Violence detected with 73.25% confidence.
+Violence detected with 69.47% confidence.
+Violence detected with 69.87% confidence.
+Violence detected with 69.40% confidence.
+Violence detected with 69.81% confidence.
+Violence detected with 68.35% confidence.
+Violence detected with 69.02% confidence.
+Violence detected with 67.76% confidence.
+Violence detected with 64.32% confidence.
+Violence detected with 66.86% confidence.
+Violence detected with 65.06% confidence.
+Violence detected with 65.41% confidence.
+Violence detected with 62.50% confidence.
+Violence detected with 63.40% confidence.
+Violence detected with 60.84% confidence.
+Violence detected with 61.96% confidence.
+Violence detected with 59.57% confidence.
+Violence detected with 60.40% confidence.
+Violence detected with 57.03% confidence.
+Violence detected with 57.53% confidence.
+Violence detected with 56.73% confidence.
+Violence detected with 58.19% confidence.
+Violence detected with 56.46% confidence.
+Violence detected with 60.71% confidence.
+Violence detected with 61.11% confidence.
+Violence detected with 63.41% confidence.
+Violence detected with 60.83% confidence.
+Violence detected with 64.30% confidence.
+Violence detected with 62.30% confidence.
+Violence detected with 61.96% confidence.
+Violence detected with 62.58% confidence.
+Violence detected with 65.22% confidence.
+Violence detected with 64.40% confidence.
+Violence detected with 62.65% confidence.
+Violence detected with 63.76% confidence.
+Violence detected with 66.89% confidence.
+Violence detected with 63.03% confidence.
+Violence detected with 63.87% confidence.
+Violence detected with 66.83% confidence.
+Violence detected with 64.38% confidence.
+Violence detected with 65.48% confidence.
+Violence detected with 67.11% confidence.
+Violence detected with 64.35% confidence.
+Violence detected with 66.91% confidence.
+Violence detected with 63.74% confidence.
+Violence detected with 66.34% confidence.
+Violence detected with 66.01% confidence.
+Violence detected with 66.32% confidence.
+Violence detected with 66.71% confidence.
+Violence detected with 66.24% confidence.
+Violence detected with 66.75% confidence.
+Violence detected with 65.96% confidence.
+Violence detected with 70.30% confidence.
+Violence detected with 65.97% confidence.
+Violence detected with 67.11% confidence.
+Violence detected with 69.01% confidence.
+Violence detected with 70.22% confidence.
+Violence detected with 67.27% confidence.
+Violence detected with 64.29% confidence.
+Violence detected with 62.70% confidence.
+Violence detected with 63.02% confidence.
+Violence detected with 58.69% confidence.
+Violence detected with 60.05% confidence.
+Violence detected with 57.80% confidence.
+Violence detected with 57.61% confidence.
+Violence detected with 56.34% confidence.
+Violence detected with 51.17% confidence.
+Violence detected with 56.09% confidence.
+Non Violence detected with 47.48% confidence.
+Non Violence detected with 46.49% confidence.
+Non Violence detected with 43.22% confidence.
+Non Violence detected with 41.41% confidence.
+Non Violence detected with 33.97% confidence.
+Non Violence detected with 32.67% confidence.
+Non Violence detected with 30.28% confidence.
+Non Violence detected with 28.61% confidence.
+Non Violence detected with 33.05% confidence.
+Non Violence detected with 31.48% confidence.
+Non Violence detected with 31.69% confidence.
+Non Violence detected with 33.32% confidence.
+Non Violence detected with 36.67% confidence.
+Non Violence detected with 28.86% confidence.
+High Confidence Violence Detected: 97.16%
+High Confidence Violence Detected: 96.07%
+High Confidence Violence Detected: 98.84%
+High Confidence Violence Detected: 96.74%
+High Confidence Violence Detected: 96.11%
+High Confidence Violence Detected: 96.28%
+High Confidence Violence Detected: 96.87%
+High Confidence Violence Detected: 97.35%
+High Confidence Violence Detected: 97.12%
+High Confidence Violence Detected: 97.93%
+High Confidence Violence Detected: 98.48%
+High Confidence Violence Detected: 99.64%
+High Confidence Violence Detected: 99.19%
+High Confidence Violence Detected: 98.23%
+High Confidence Violence Detected: 98.20%
+High Confidence Violence Detected: 99.26%
+High Confidence Violence Detected: 98.92%
